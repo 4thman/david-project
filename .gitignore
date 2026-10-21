@@ -1,0 +1,6 @@
+tfstate
+.tfstate
+.env
+.pem
+tfvars
+node_modules
